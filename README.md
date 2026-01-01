@@ -63,7 +63,7 @@ ERD show the relationship:
 
 SQL queries based on this designed schema are follow here.
 
-> **All Queries Answers**: To understand the expected results for each query, please see this **[All Query Results (queries.sql)](queries.sql)** file.
+> **All Queries Answers**: To understand the expected results for each query, please see this **[All Query Results (https://github.com/bijit-dev/b6a3/blob/main/query%20b6a3.sql)** file.
 - ** At first Users table created with primary key and all entities properly **
 - ** Then Vehicles table created with primary key and all entities **
 - ** Now, Bookings table created with maintain foreign key for user and vehicles table **
